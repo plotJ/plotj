@@ -63,10 +63,10 @@
 ## Hackathon Submissions
 - [EthOnline2024](https://github.com/plotj/EthOnline2024) - A proof-of-concept decentralized voting system
 - [EthSEA-Coinfest2024](https://github.com/plotj/EthSEA-Coinfest2024) - A proof-of-concept decentralized voting system using Mantis Network
-- [EthSamba23](https://github.com/plotj/EthSamba23) - Submission 
+- [EthSamba23](https://github.com/plotj/EthSamba23) - A MetaMask snap for donating to approved charities.
 - [streamr-hackathon](https://github.com/plotj/streamr-hackathon) - Submission for Streamr online hackathon
 - [ICP-Bridge](https://github.com/plotj/ICP-Bridge) - A bridge for ICP to EVM chains
-- [ICPHHChallenge](https://github.com/plotj/ICPHHChallenge) - Challenge submission for ICP hackerhouse challenge
+- [ICPHHChallenge](https://github.com/plotj/ICPHHChallenge) - Challenge submission for ICP hackerhouse challenge. Deploying to ICP
 - [Challenge2](https://github.com/plotj/Challenge2) - 2nd hackerhouse challenge for ICP Builder House
 
 ## Automation Projects
