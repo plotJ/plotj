@@ -59,3 +59,44 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+# My GitHub Portfolio
+
+## Web3 Projects
+- [Web3Racer](https://github.com/plotj/Web3Racer) - A retro game built with Java with Smart Contract for leaderboard
+- [Web3Labyrinth](https://github.com/plotj/Web3Labyrinth) - A Web3 Maze Game. Wager Sepolia ETH to win Sepolia ETH
+
+
+## Hackathon Submissions
+- [EthOnline2024](https://github.com/plotj/EthOnline2024) - A proof-of-concept decentralized voting system
+- [EthSEA-Coinfest2024](https://github.com/plotj/EthSEA-Coinfest2024) - A proof-of-concept decentralized voting system using Mantis Network
+- [EthSamba23](https://github.com/plotj/EthSamba23) - Submission 
+- [streamr-hackathon](https://github.com/plotj/streamr-hackathon) - Submission for Streamr online hackathon
+- [ICP-Bridge](https://github.com/plotj/ICP-Bridge) - A bridge for ICP to EVM chains
+- [ICPHHChallenge](https://github.com/plotj/ICPHHChallenge) - Challenge submission for ICP hackerhouse challenge
+- [Challenge2](https://github.com/plotj/Challenge2) - 2nd hackerhouse challenge for ICP Builder House
+
+## Automation Projects
+- [SocialTradeBot](https://github.com/plotj/SocialTradeBot) - A comprehensive Python tool for crypto project analysis
+- [Youtube-Scraper](https://github.com/plotj/Youtube-Scraper) - Python script for creating YouTube channel video spreadsheets
+
+## Games
+- [RubiksCube](https://github.com/plotj/RubiksCube) - Interactive Rubik's Cube Simulator built with React and Tailwind CSS
+- [Web3Racer](https://github.com/plotj/Web3Racer) - A retro game built with Java with Smart Contract for leaderboard
+- [Web3Labyrinth](https://github.com/plotj/Web3Labyrinth) - A Web3 Maze Game. Wager Sepolia ETH to win Sepolia ETH
+
+## Chrome Extensions
+- [LogicalFallacyExtension](https://github.com/plotj/LogicalFallacyExtension) - Scans the page you're visiting and explains the logical fallacies committed. 
+
+## AI and GPT Projects
+- [JokeGenerator](https://github.com/plotj/JokeGenerator) - A custom GPT + NextJS frontend for making jokes and rating them
+- [ChefGPT](https://github.com/plotj/ChefGPT) - A custom built GPT for recipes
+- [selfchatgpt](https://github.com/plotj/selfchatgpt) - A ChatGPT clone
+
+## Web Development
+- [todo-app](https://github.com/plotj/todo-app) - A simple todo app
+- [TimeTrackerApp](https://github.com/plotj/TimeTrackerApp) - A simple JavaScript app to track time spent working
+
+## Bootcamps
+Encode AI + GPT Bootcamp
+Encode EVM Bootcamp
