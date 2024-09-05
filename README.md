@@ -56,7 +56,7 @@
 # My GitHub Portfolio
 
 ## Web3 Projects
-- [Web3Racer](https://github.com/plotj/Web3Racer) - A retro game built with Java with Smart Contract for leaderboard
+- [Web3Racer](https://github.com/plotj/Web3Racer) - A retro game built with Javascript with Smart Contract for leaderboard
 - [Web3Labyrinth](https://github.com/plotj/Web3Labyrinth) - A Web3 Maze Game. Wager Sepolia ETH to win Sepolia ETH
 
 
