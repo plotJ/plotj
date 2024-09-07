@@ -83,6 +83,7 @@
 - [LogicalFallacyExtension](https://github.com/plotj/LogicalFallacyExtension) - Scans the page you're visiting and explains the logical fallacies committed. 
 
 ## AI and GPT Projects
+- [Story Telling GPT](https://github.com/plotJ/Story-Telling-GPT) - A Next.js-based storytelling app that integrates with a locally-hosted text generation UI, leveraging custom AI models to create personalized narratives based on user-defined characters, genres, and tones
 - [JokeGenerator](https://github.com/plotj/JokeGenerator) - A custom GPT + NextJS frontend for making jokes and rating them
 - [ChefGPT](https://github.com/plotj/ChefGPT) - A custom built GPT for recipes
 - [selfchatgpt](https://github.com/plotj/selfchatgpt) - A ChatGPT clone
