@@ -72,6 +72,7 @@
 ## Automation Projects
 - [SocialTradeBot](https://github.com/plotj/SocialTradeBot) - A comprehensive Python tool for crypto project analysis
 - [Youtube-Scraper](https://github.com/plotj/Youtube-Scraper) - Python script for creating YouTube channel video spreadsheets
+- [Reddit-Meme-Finder](https://github.com/plotj/Reddit-Meme-Finder) - Typescript tool for searching various subreddits for relevant memes.
 
 ## Games
 - [RubiksCube](https://github.com/plotj/RubiksCube) - Interactive Rubik's Cube Simulator built with React and Tailwind CSS
