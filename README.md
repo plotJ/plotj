@@ -56,6 +56,7 @@
 # My GitHub Portfolio
 
 ## Web3 Projects
+- [Lottery](https://github.com/plotJ/Lottery) - A decentralized Ethereum-based lottery system with custom ERC20 tokens, allowing users to buy tickets, participate in draws, and win prizes through smart contracts and a Next.js frontend.
 - [Web3Racer](https://github.com/plotj/Web3Racer) - A retro game built with Javascript with Smart Contract for leaderboard
 - [Web3Labyrinth](https://github.com/plotj/Web3Labyrinth) - A Web3 Maze Game. Wager Sepolia ETH to win Sepolia ETH
 
