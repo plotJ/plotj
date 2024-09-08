@@ -92,6 +92,7 @@
 - [todo-app](https://github.com/plotj/todo-app) - A simple todo app
 - [TimeTrackerApp](https://github.com/plotj/TimeTrackerApp) - A simple JavaScript app to track time spent working
 
-## Bootcamps
-Encode AI + GPT Bootcamp
-Encode EVM Bootcamp
+## Bootcamps + Training
+- [Encode AI + GPT Bootcamp](https://www.encode.club/ai-gpt-bootcamp)
+- [Encode EVM Bootcamp](https://www.encode.club/evm-bootcamp))
+- [Speedrun Ethereum](https://speedrunethereum.com/builders/0x79Af8F15696391A0327178C55f7Ce7C84EC8ad8a)
