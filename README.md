@@ -20,6 +20,7 @@ My name is Josh and I'm a digital nomad AI and Web3 entrepeneur.</h2>
 
 
 ## Hackathon Submissions
+- [EthSingapore2024](https://github.com/plotJ/eth-singapore-24) - A sybil resistant voting platform using Oasis Sapphire network and Worldcoin login.
 - [Farhack](https://github.com/plotJ/farhack) - A Farcaster frame using Lum0x to generate a Leaderboard of top comtributors for Warpcast channels.
 - [EthOnline2024](https://github.com/plotj/EthOnline2024) - A proof-of-concept decentralized voting system
 - [ICP-Bridge](https://github.com/plotj/ICP-Bridge) - A bridge for ICP to EVM chains
