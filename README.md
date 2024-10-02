@@ -47,7 +47,7 @@ My name is Josh and I'm a digital nomad AI and Web3 entrepeneur.</h2>
 - [Story Telling GPT](https://github.com/plotJ/Story-Telling-GPT) - A Next.js-based storytelling app that integrates with a locally-hosted text generation UI, leveraging custom AI models to create personalized narratives based on user-defined characters, genres, and tones
 - [JokeGenerator](https://github.com/plotj/JokeGenerator) - A custom GPT + NextJS frontend for making jokes and rating them
 - [ChefGPT](https://github.com/plotj/ChefGPT) - A custom built GPT for recipes
-- [selfchatgpt](https://github.com/plotj/selfchatgpt) - A ChatGPT clone
+- [selfgpt](https://github.com/plotj/selfgpt) - A ChatGPT clone
 
 ## Web Development
 - [todo-app](https://github.com/plotj/todo-app) - A simple todo app
