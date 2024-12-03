@@ -1,4 +1,4 @@
-My name is Josh and I'm a digital nomad AI and Web3 entrepeneur.</h2>
+My name is Josh and I'm a digital nomad and AI and Web3 entrepeneur.</h2>
 
 ###
 
