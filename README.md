@@ -37,6 +37,9 @@ My name is Josh and I'm a digital nomad AI and Web3 entrepeneur.</h2>
 - [Youtube-Scraper](https://github.com/plotj/Youtube-Scraper) - Python script for creating YouTube channel video spreadsheets
 - [Reddit-Meme-Finder](https://github.com/plotj/Reddit-Meme-Finder) - Typescript tool for searching various subreddits for relevant memes.
 
+## Applications
+- [TextGrabber](https://github.com/plotJ/TextGrabber) - A screen capture utility that extracts text from non-copyable sources using OCR technology.
+
 ## Games
 - [RubiksCube](https://github.com/plotj/RubiksCube) - Interactive Rubik's Cube Simulator built with React and Tailwind CSS
 - [Web3Racer](https://github.com/plotj/Web3Racer) - A retro game built with Java with Smart Contract for leaderboard
