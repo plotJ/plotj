@@ -18,7 +18,7 @@ My name is Josh and I'm a digital nomad and AI and Web3 entrepeneur.</h2>
 - [Web3Racer](https://github.com/plotj/Web3Racer) - A retro game built with Javascript with Smart Contract for leaderboard
 - [Web3Labyrinth](https://github.com/plotj/Web3Labyrinth) - A Web3 Maze Game. Wager Sepolia ETH to win Sepolia ETH
 
-## Deployed Projects
+## Live Projects
 - [Onebag Tool](https://github.com/plotJ/Onebag) - A tool for finding the perfect bag for Onebag Travel.
 
 ## Hackathon Submissions
