@@ -20,6 +20,13 @@ My name is Josh and I'm a digital nomad and AI and Web3 entrepeneur.</h2>
 - [Youtube-Scraper](https://github.com/plotj/Youtube-Scraper) - Python script for creating YouTube channel video spreadsheets
 - [Reddit-Meme-Finder](https://github.com/plotj/Reddit-Meme-Finder) - Typescript tool for searching various subreddits for relevant memes.
 
+## Web3 Projects
+- [Dexscan](https://github.com/plotJ/dexscan) - A comprehensive DEX scanner and trading bot that integrates with BonkBot and provides Telegram notifications, featuring a modern web interface for easy monitoring and control.
+- [SocialTradeBot](https://github.com/plotj/SocialTradeBot) - A comprehensive Python tool for crypto project analysis
+- [Lottery](https://github.com/plotJ/Lottery) - A decentralized Ethereum-based lottery system with custom ERC20 tokens, allowing users to buy tickets, participate in draws, and win prizes through smart contracts and a Next.js frontend.
+- [Web3Racer](https://github.com/plotj/Web3Racer) - A retro game built with Javascript with Smart Contract for leaderboard
+- [Web3Labyrinth](https://github.com/plotj/Web3Labyrinth) - A Web3 Maze Game. Wager Sepolia ETH to win Sepolia ETH
+
 ## Applications
 - [TextGrabber](https://github.com/plotJ/TextGrabber) - A screen capture utility that extracts text from non-copyable sources using OCR technology.
 
@@ -40,13 +47,6 @@ My name is Josh and I'm a digital nomad and AI and Web3 entrepeneur.</h2>
 ## Web Development
 - [todo-app](https://github.com/plotj/todo-app) - A simple todo app
 - [TimeTrackerApp](https://github.com/plotj/TimeTrackerApp) - A simple JavaScript app to track time spent working
-
-## Web3 Projects
-- [Dexscan](https://github.com/plotJ/dexscan) - A comprehensive DEX scanner and trading bot that integrates with BonkBot and provides Telegram notifications, featuring a modern web interface for easy monitoring and control.
-- [SocialTradeBot](https://github.com/plotj/SocialTradeBot) - A comprehensive Python tool for crypto project analysis
-- [Lottery](https://github.com/plotJ/Lottery) - A decentralized Ethereum-based lottery system with custom ERC20 tokens, allowing users to buy tickets, participate in draws, and win prizes through smart contracts and a Next.js frontend.
-- [Web3Racer](https://github.com/plotj/Web3Racer) - A retro game built with Javascript with Smart Contract for leaderboard
-- [Web3Labyrinth](https://github.com/plotj/Web3Labyrinth) - A Web3 Maze Game. Wager Sepolia ETH to win Sepolia ETH
 
 ## Hackathon Submissions
 - [EthSingapore2024](https://github.com/plotJ/eth-singapore-24) - A sybil resistant voting platform using Oasis Sapphire network and Worldcoin login.
