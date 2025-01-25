@@ -15,6 +15,7 @@ My name is Josh and I'm a digital nomad and AI and Web3 entrepeneur.</h2>
 
 ## Live Projects
 - [Onebag Tool](https://github.com/plotJ/Onebag) - A tool for finding the perfect bag for Onebag Travel.
+- [Easy FCC Report](https://github.com/plotJ/EasyFCCReport) - A Chrome Extension for effortlessly submitting reports to the FCC about spam calls received.
 
 ## Automation Projects
 - [Youtube-Scraper](https://github.com/plotj/Youtube-Scraper) - Python script for creating YouTube channel video spreadsheets
